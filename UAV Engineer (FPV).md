@@ -38,12 +38,15 @@
         1. [Налаштування 10-дюймового FPV дрона на рамі Mark4 V2](https://www.youtube.com/watch?v=lgfKJPVtjwQ)
         1. [What causes Propwash and how Betaflight Dynamic Idle can help!](https://www.youtube.com/watch?v=CAMcRbQh3xM)
 1. Ardupilot
-    1. [Плейліст від Criss Rosser](https://www.youtube.com/watch?v=4pkSnBqA_m4&list=PLFPBjpbd5xKSGFJfuQJBPWOm-sGv0VxD1)
-    1. [База по ARDUPILOT. Від прошивки до польоту (Є-дрон)](https://www.youtube.com/watch?v=y7PwAig7BhE)
-    1. [Плейліст від каналу Обережно дрони](https://www.youtube.com/watch?v=e3Sw86PXz24&list=PLurWqQaDNkG_uVhYsNSvD5VgIOgXVhc2E)
-    1. [Ardupilot: налаштовуємо ПІД регулятор і фільтри вручну (FPV питаннячка)](https://www.youtube.com/watch?v=XDkSa0SjF7I)
-    1. [QuickTune: 600 строк налаштовують ПІД регулятор (FPV питаннячка)](https://www.youtube.com/watch?v=rLq3naIUMSY)
-    1. [ArduPilot SILT with Gazebo playlist (Intelligent Quads)](https://www.youtube.com/watch?v=AP1UC0DlIrE&list=PLy9nLDKxDN683GqAiJ4IVLquYBod_2oA6)
+    1. Налаштування
+        1. [Плейліст від Criss Rosser](https://www.youtube.com/watch?v=4pkSnBqA_m4&list=PLFPBjpbd5xKSGFJfuQJBPWOm-sGv0VxD1)
+        1. [База по ARDUPILOT. Від прошивки до польоту (Є-дрон)](https://www.youtube.com/watch?v=y7PwAig7BhE)
+        1. [Плейліст від каналу Обережно дрони](https://www.youtube.com/watch?v=e3Sw86PXz24&list=PLurWqQaDNkG_uVhYsNSvD5VgIOgXVhc2E)
+        1. [Ardupilot: налаштовуємо ПІД регулятор і фільтри вручну (FPV питаннячка)](https://www.youtube.com/watch?v=XDkSa0SjF7I)
+        1. [QuickTune: 600 строк налаштовують ПІД регулятор (FPV питаннячка)](https://www.youtube.com/watch?v=rLq3naIUMSY)
+    1. Програмування під ArduPilot
+        1. [ArduPilot Drone Programming course](https://www.youtube.com/watch?v=TO7qa8oCACI&list=PLgiealSjeVyx3t4N9GroE29SbVwhYrOtL)
+        1. [ArduPilot SILT with Gazebo playlist (Intelligent Quads)](https://www.youtube.com/watch?v=AP1UC0DlIrE&list=PLy9nLDKxDN683GqAiJ4IVLquYBod_2oA6)
 1. iNav
     1. [Налаштування дронів в конфігураторі INAV (Aves Lab)](https://www.youtube.com/watch?v=xWo17kdRwOE)
     1. [INAV Explained playlist (UAV Tech)](https://www.youtube.com/watch?v=mTIcGJwofAg&list=PLcYNkvInloJGvCFbkRoQVkzhyLmdgW_d1)
@@ -86,9 +89,11 @@
     1. [LoRa CHIRP (Richard Wenner)](https://www.youtube.com/watch?v=dxYY097QNs0)
     1. [LoRa/LoRaWAN tutorials by Mobilefish.com](https://www.youtube.com/watch?v=cUhAyyzlv2o&list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g)
 1. Протоколи
-    1. [MAVLink](https://mavlink.io/)
-    1. [ExpressLRS (ELRS)](https://www.expresslrs.org/)
-    1. TODO: CRSF
+    1. MAVLink
+        1. [MAVLink Introduction | Middleware for Open Source Drones](https://www.youtube.com/watch?v=iZ-usX1VXRI)
+        1. [MAVLink Messages | Dissecting the Protocol](https://www.youtube.com/watch?v=Ha66uKC-od0)
+    1. [ExpressLRS (ELRS)](https://www.youtube.com/watch?v=N0ajKoef3qs)
+    1. [CRSF](https://www.youtube.com/watch?v=squ4qLEXzR0)
 
 1. TODO: phased arrays & digital beam forming
 
