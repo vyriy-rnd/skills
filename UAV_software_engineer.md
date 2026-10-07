@@ -12,7 +12,7 @@
     1. [Анатомія дрона. З чого зроблений FPV коптер.](https://www.youtube.com/watch?v=hLtEWlq-7uY)
     1. [Базові поняття про FPV дрони та обладнання. Терміни + пояснення.](https://www.youtube.com/watch?v=sfohRjv3Fyk)
 1. Навчальні курси і матеріали по збірці FPV дронів:
-    1. [Народний FPV](https://prometheus.org.ua/prometheus-free/fpv-engineering/) (онлайн, безкоштовний, 8 годин, мова: україніська)
+    1. [Народний FPV](https://prometheus.org.ua/prometheus-free/fpv-engineering/) (онлайн, безкоштовний, 8 годин, мова: українська)
     1. [Відеоінструкції по збірці FPV дрона від Є-дрон](https://www.youtube.com/watch?v=75SbiwqW7DM&list=PL2Lub8Hfba5QwieEn2fjwiQ--1qiDUZjf)
     1. [Туторіали Social Drone](https://sdua.tech/request)
 
@@ -29,7 +29,7 @@
         1. [Betaflight 4.5 Filter Tuning (Chris Rosser)](https://www.youtube.com/watch?v=E3s5XYk3M74)
         1. [Betaflight 4.5 PID Tuning (Chris Rosser)](https://www.youtube.com/watch?v=1oYoVE4xu1U)
         1. [Betaflight 4.5 Rates Tuning (Chris Rosser)](https://www.youtube.com/watch?v=P9frW81C31Q)
-    1. Налаштування PID регулятора в BetaFlight від Aves Lab:
+    1. Налаштування PID регулятора в Betaflight від Aves Lab:
         1. [Налаштування PID регулятора для FPV дронів в Betaflight. Теоретична частина (Aves Lab)](https://www.youtube.com/watch?v=NlqPHb28eaw)
         1. [Практичні поради з налаштування PID регулятора Betaflight для FPV дронів (Aves Lab)](https://www.youtube.com/watch?v=76FeOTWqC_Y)
         1. [Blackbox Explorer, аналіз польотних логів (Aves Lab)](https://www.youtube.com/watch?v=FhQDbtbXL5Y&t=1s)
@@ -39,15 +39,15 @@
         1. [What causes Propwash and how Betaflight Dynamic Idle can help!](https://www.youtube.com/watch?v=CAMcRbQh3xM)
 1. Ardupilot
     1. Налаштування
-        1. [Плейліст від Criss Rosser](https://www.youtube.com/watch?v=4pkSnBqA_m4&list=PLFPBjpbd5xKSGFJfuQJBPWOm-sGv0VxD1)
+        1. [Плейліст від Chris Rosser](https://www.youtube.com/watch?v=4pkSnBqA_m4&list=PLFPBjpbd5xKSGFJfuQJBPWOm-sGv0VxD1)
         1. [База по ARDUPILOT. Від прошивки до польоту (Є-дрон)](https://www.youtube.com/watch?v=y7PwAig7BhE)
         1. [Плейліст від каналу Обережно дрони](https://www.youtube.com/watch?v=e3Sw86PXz24&list=PLurWqQaDNkG_uVhYsNSvD5VgIOgXVhc2E)
         1. [Ardupilot: налаштовуємо ПІД регулятор і фільтри вручну (FPV питаннячка)](https://www.youtube.com/watch?v=XDkSa0SjF7I)
         1. [QuickTune: 600 строк налаштовують ПІД регулятор (FPV питаннячка)](https://www.youtube.com/watch?v=rLq3naIUMSY)
     1. Програмування під ArduPilot
         1. [ArduPilot Drone Programming course](https://www.youtube.com/watch?v=TO7qa8oCACI&list=PLgiealSjeVyx3t4N9GroE29SbVwhYrOtL)
-        1. [ArduPilot SILT with Gazebo playlist (Intelligent Quads)](https://www.youtube.com/watch?v=AP1UC0DlIrE&list=PLy9nLDKxDN683GqAiJ4IVLquYBod_2oA6)
-1. iNav
+        1. [ArduPilot SITL with Gazebo playlist (Intelligent Quads)](https://www.youtube.com/watch?v=AP1UC0DlIrE&list=PLy9nLDKxDN683GqAiJ4IVLquYBod_2oA6)
+1. INAV
     1. [Налаштування дронів в конфігураторі INAV (Aves Lab)](https://www.youtube.com/watch?v=xWo17kdRwOE)
     1. [INAV Explained playlist (UAV Tech)](https://www.youtube.com/watch?v=mTIcGJwofAg&list=PLcYNkvInloJGvCFbkRoQVkzhyLmdgW_d1)
 1. PX4
@@ -69,22 +69,22 @@
     1. [How to choose the right props for your quadcopter (Chris Rosser)](https://youtu.be/epJ6L9MaXOQ?si=JVfNvUKqN2l_i_2v)
     1. [Prop Direction. Should you run Props IN or Props OUT? (Chris Rosser)](https://www.youtube.com/watch?v=ExFWmOx6yVA)
 1. Батареї
-    1. [Енергоефективність польоту: як розуміти показники батареї на osd і як та для чого їх враховувати](https://www.youtube.com/watch?v=XcTLhVeCPUc)
+    1. [Енергоефективність польоту: як розуміти показники батареї на OSD і як та для чого їх враховувати](https://www.youtube.com/watch?v=XcTLhVeCPUc)
     1. TODO: Типи батарей Li-Ion, Li-Po, LiFePO4
     1. TODO: Напруги, струми, ємність, паралельне, послідовне зʼєднання
 1. Рами
     1. [Carbon Fibre: A deep dive on this incredible composite material](https://www.youtube.com/watch?v=zXd9wGuDGWI)
 
-## Зв'язок
+## Звʼязок
 
-1. [Показники якості зв'язку (RSSI, LQ, SNR) (Holy Tarantino)](https://www.youtube.com/watch?v=y1gqLveX6Co)
+1. [Показники якості звʼязку (RSSI, LQ, SNR) (Holy Tarantino)](https://www.youtube.com/watch?v=y1gqLveX6Co)
 1. [Плейліст по антенах від Holy Tarantino](https://www.youtube.com/watch?v=M0ZpfBoJZ5o&list=PLXQEOJJpWfg6tsT9-SUevw9EwnDXBc5Yy)
 1. [The Ultimate Guide to Choosing and Using FPV Antennas](https://oscarliang.com/best-fpv-antenna/)
 1. [Інструкція LiteVNA 64. Замір КСХ антени, затухання в кабелі (A-radio)](https://www.youtube.com/watch?v=Vpn25p60xQs)
 1. [Гармоніки та їхній вплив на відеосигнал (Holy Tarantino)](https://www.youtube.com/watch?v=aIqn18uq9E8)
 1. TODO: Поляризації, діаграми направленості, зона Френеля, гармоніки, фільтри, параметри фільтрів, діаграма Сміта, LiteVNA
 1. Фундаментальні принципи звʼязку:
-    1. [Гарна візуалізація, яка показує природу елетромагнітних полів (3b1b)](https://www.youtube.com/watch?v=aXRTczANuIs)
+    1. [Гарна візуалізація, яка показує природу електромагнітних полів (3b1b)](https://www.youtube.com/watch?v=aXRTczANuIs)
     1. [All Modulation Types Explained in 3 Minutes (Wireless Explained)](https://www.youtube.com/watch?v=c3eMoHuPRy0)
     1. [What is QAM modulation?](https://www.youtube.com/watch?v=9_478TsTNPw)
 1. LoRa:
@@ -103,7 +103,7 @@
 ## Digital Signal Processing (DSP)
 
 1. Перетворення Фурʼє:
-    1. [Інтерактивний вступ до перетворень Фур’є (Jez Swanson)](https://jezzamon.com/fourier/ua)
+    1. [Інтерактивний вступ до перетворень Фурʼє (Jez Swanson)](https://jezzamon.com/fourier/ua)
     1. [But what is the Fourier Transform? A visual introduction (3b1b)](https://www.youtube.com/watch?v=spUNpyF58BY)
     1. [But what is a Fourier series? From heat flow to drawing with circles (3b1b)](https://www.youtube.com/watch?v=r6sGWTCMz2k)
     1. [FFT: Fast Fourier Transform (Veritasium)](https://www.youtube.com/watch?v=nmgFG7PUHfo)
