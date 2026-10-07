@@ -17,7 +17,7 @@
     1. [Туторіали Social Drone](https://sdua.tech/request)
 
 - **Рекомендація**:
-    - Зберіть хоча б пару FPV дронів самостійно і задонатьте на Social Drone або Victory Drones. Це буде найкраще ваше знайомство з цією сферою. В якості бонуса можливо зібраний саме вами дрон знищить якогось окупанта.
+  - Зберіть хоча б пару FPV дронів самостійно і задонатьте на Social Drone або Victory Drones. Це буде найкраще ваше знайомство з цією сферою. В якості бонуса можливо зібраний саме вами дрон знищить якогось окупанта.
 
 ## Прошивки польотних контролерів та екосистеми
 
@@ -83,6 +83,10 @@
 1. [Інструкція LiteVNA 64. Замір КСХ антени, затухання в кабелі (A-radio)](https://www.youtube.com/watch?v=Vpn25p60xQs)
 1. [Гармоніки та їхній вплив на відеосигнал (Holy Tarantino)](https://www.youtube.com/watch?v=aIqn18uq9E8)
 1. TODO: Поляризації, діаграми направленості, зона Френеля, гармоніки, фільтри, параметри фільтрів, діаграма Сміта, LiteVNA
+1. Фундаментальні принципи звʼязку:
+    1. [Гарна візуалізація, яка показує природу елетромагнітних полів (3b1b)](https://www.youtube.com/watch?v=aXRTczANuIs)
+    1. [All Modulation Types Explained in 3 Minutes (Wireless Explained)](https://www.youtube.com/watch?v=c3eMoHuPRy0)
+    1. [What is QAM modulation?](https://www.youtube.com/watch?v=9_478TsTNPw)
 1. LoRa:
     1. [LoRa Explained: How It Differs from LoRaWAN (FPV University)](https://www.youtube.com/watch?v=CweHMNx46qQ)
     1. [How LoRa Modulation really works (Visual Electric)](https://www.youtube.com/watch?v=jHWepP1ZWTk)
@@ -94,25 +98,42 @@
         1. [MAVLink Messages | Dissecting the Protocol](https://www.youtube.com/watch?v=Ha66uKC-od0)
     1. [ExpressLRS (ELRS)](https://www.youtube.com/watch?v=N0ajKoef3qs)
     1. [CRSF](https://www.youtube.com/watch?v=squ4qLEXzR0)
+1. [Understanding Phased Array Systems and Beamforming (Brian Douglas)](https://www.youtube.com/playlist?list=PLn8PRpmsu08q9U0y7_63Dfz5cawEnicxi)
 
-1. TODO: phased arrays & digital beam forming
+## Digital Signal Processing (DSP)
+
+1. Перетворення Фурʼє:
+    1. [Інтерактивний вступ до перетворень Фур’є (Jez Swanson)](https://jezzamon.com/fourier/ua)
+    1. [But what is the Fourier Transform? A visual introduction (3b1b)](https://www.youtube.com/watch?v=spUNpyF58BY)
+    1. [But what is a Fourier series? From heat flow to drawing with circles (3b1b)](https://www.youtube.com/watch?v=r6sGWTCMz2k)
+    1. [FFT: Fast Fourier Transform (Veritasium)](https://www.youtube.com/watch?v=nmgFG7PUHfo)
+    1. [Understanding Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) (Brian Douglas)](https://www.youtube.com/watch?v=QmgJmh2I3Fw)
+1. IQ signals:
+    1. [Basics of IQ Signals and IQ modulation & demodulation (w2aew)](https://www.youtube.com/watch?v=h_7d-m1ehoY)
+    1. [IQ Signals Part II: AM and FM phasor diagrams, SSB phasing method (w2aew)](https://www.youtube.com/watch?v=5GGD99Qi1PA)
+1. [Understanding Power Spectral Density and the Power Spectrum (Brian Douglas)](https://www.youtube.com/watch?v=pfjiwxhqd1M)
 
 ## Sensors, sensor fusion, Kalman Filters
 
-1. [Accelerometers and Gyroscopes - Sensor Fusion #1](https://www.youtube.com/watch?v=RZd6XDx5VXo)
-1. [Complementary Filter - Sensor Fusion #2](https://www.youtube.com/watch?v=BUW2OdAtzBw)
-1. [Extended Kalman Filter - Sensor Fusion #3](https://www.youtube.com/watch?v=hQUkiC5o0JI)
-1. [Extended Kalman Filter Software Implementation - Sensor Fusion #4](https://www.youtube.com/watch?v=7HVPjkWOrLE)
-1. TODO: add videos by Brian Douglas
+1. [Understanding Sensor Fusion and Tracking playlist (Brian Douglas)](https://www.youtube.com/playlist?list=PLn8PRpmsu08ryYoBpEKzoMOveSTyS-h4a)
+1. Playlist by Phil’s Lab:
+    1. [Accelerometers and Gyroscopes - Sensor Fusion #1](https://www.youtube.com/watch?v=RZd6XDx5VXo)
+    1. [Complementary Filter - Sensor Fusion #2](https://www.youtube.com/watch?v=BUW2OdAtzBw)
+    1. [Extended Kalman Filter - Sensor Fusion #3](https://www.youtube.com/watch?v=hQUkiC5o0JI)
+    1. [Extended Kalman Filter Software Implementation - Sensor Fusion #4](https://www.youtube.com/watch?v=7HVPjkWOrLE)
 
-## TODO: Control Theory
+## Автономність і теорія контролю
+
+1. [Understanding PID Control (Brian Douglas)](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
+1. [Classical Control Theory (Brian Douglas)](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
+1. [Quaternions and 3d rotation (3b1b)](https://eater.net/quaternions)
+1. [Autonomous Navigation (Brian Douglas)](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg)
 
 ## Додаткові теми
 
-1. [Classical Control Theory (Brian Douglas)](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
+1. [Radar basics (Brian Douglas)](https://www.youtube.com/watch?v=-N7A5CIi0sg&list=PLb-MsRpo_wlLpMoRff7XhBmKQJsbCRSJk)
+1. [Systems engineering (Brian Douglas)](https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL)
 1. [All courses from Brian Douglas](https://engineeringmedia.com/videos)
-1. TODO: Radar basics
-1. TODO: Digital Signal Processing
 
 ## Тематичні спільноти
 
@@ -139,3 +160,7 @@
 
 - [Курс Embedded Development (Beetroot Academy)](https://beetroot.academy/courses/online/kurs-embedded-development)
 - [Курс Drones Firmware (Beetroot Academy)](https://beetroot.academy/courses/online/kurs-drones-firmware)
+
+## Загальні (нетехнічні) мілітарні спільноти
+
+- [Мілітарний](https://militarnyi.com/uk/)
